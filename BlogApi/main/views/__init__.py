@@ -1,0 +1,2 @@
+from .generic_view import PostGenericApiView
+from .generic_view import CommentGenericApiView
